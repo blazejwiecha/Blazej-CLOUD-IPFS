@@ -37,7 +37,7 @@ gem "jekyll-admin", group: :jekyll_plugins
 
 # Plugins of this site loaded during a build with proper
 # site configuration.
-gem "jekyll-gist"
-gem "jekyll-coffeescript"
-gem "jekyll-seo-tag", "~> 2.0"
+#gem "jekyll-gist"
+#gem "jekyll-coffeescript"
+#gem "jekyll-seo-tag", "~> 2.0"
 #gem "some-other-jekyll-plugin"
