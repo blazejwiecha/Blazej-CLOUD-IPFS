@@ -1,11 +1,9 @@
 ---
-title: Jekyll wraz z IPFS
 layout: post
-date: '2021-01-31 18:50:58 +0100'
-categories:
-- news
+title:  "Jekyll wraz z IPFS"
+date:   2021-01-31 18:50:58 +0100
+categories: news
 ---
-
 Witajcie w niedzielę,
 A więc tak , należy wejść na stronę [Jekyll][jekyll_link] i tam jest streszczona obsługa stworzenia serwera hostującego na Twoim komputerze . Polecam do edycji wpisów używać aplikacji Atom.
 
